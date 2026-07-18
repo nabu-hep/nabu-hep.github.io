@@ -5,3 +5,4 @@ NABU: A software for communicating likelihoods
    :caption: Contents:
 
    api
+   file-format
